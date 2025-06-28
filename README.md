@@ -4,9 +4,8 @@
 
 ```javascript
 const yefferson = {
-    rol: "Desarrollador Web & Estudiante de Ingeniería de Sistemas",
+    rol: "Desarrollador Web e Ingeniero de Sistemas",
     ubicacion: "Colombia 🇨🇴",
-    aprendiendo: ["JavaScript", "Node.js", "Bases de Datos"],
     enfoque: "Desarrollo Full Stack",
     objetivo: "Crear soluciones web innovadoras"
 };
