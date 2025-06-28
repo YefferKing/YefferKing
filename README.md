@@ -104,7 +104,7 @@ intereses = {
 
 [![Gmail](https://img.shields.io/badge/-yeffersonpeinado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeffersonpeinado@gmail.com)
 [![GitHub](https://img.shields.io/badge/-YefferKing-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YefferKing)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yefferson-peinado-5a8953248/)
 
 </div>
 
