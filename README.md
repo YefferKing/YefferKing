@@ -68,21 +68,12 @@ const yefferson = {
 
 </div>
 
-## 🌱 Actualmente Aprendiendo
-
-- 🔥 **JavaScript Avanzado:** ES6+, Async/Await, APIs
-- 🚀 **Node.js:** Backend development, Express.js
-- 🗄️ **Bases de Datos:** MySQL, PostgreSQL, MongoDB
-- 🎨 **Frontend Frameworks:** React, Vue.js
-- 🔧 **DevOps:** Docker, CI/CD
-
 ## 💡 Áreas de Interés
 
 ```python
 intereses = {
     "desarrollo_web": ["Frontend", "Backend", "Full Stack"],
     "inteligencia_artificial": ["Computer Vision", "Machine Learning"],
-    "tecnologias_emergentes": ["IoT", "Cloud Computing"],
     "automatizacion": ["Procesos", "Testing", "Deployment"]
 }
 ```
